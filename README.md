@@ -3,7 +3,7 @@ Wiocoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/wiocoin-project/wiocoin.svg?branch=master)](https://travis-ci.org/wiocoin-project/wiocoin)
 
-https://wiocoin.org
+https://wiocoin.github.io
 
 What is Wiocoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Wiocoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Wiocoin Core software, see [https://wiocoin.org](https://wiocoin.org).
+the Wiocoin Core software, see [https://wiocoin.github.io](https://wiocoin.github.io).
 
 License
 -------
